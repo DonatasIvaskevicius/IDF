@@ -1,0 +1,11 @@
+C:\Users\moksleivis\source\repos\IDF\IDF\bin\Debug\netcoreapp2.2\IDF.deps.json
+C:\Users\moksleivis\source\repos\IDF\IDF\bin\Debug\netcoreapp2.2\IDF.runtimeconfig.json
+C:\Users\moksleivis\source\repos\IDF\IDF\bin\Debug\netcoreapp2.2\IDF.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\IDF\IDF\bin\Debug\netcoreapp2.2\IDF.dll
+C:\Users\moksleivis\source\repos\IDF\IDF\bin\Debug\netcoreapp2.2\IDF.pdb
+C:\Users\moksleivis\source\repos\IDF\IDF\obj\Debug\netcoreapp2.2\IDF.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\IDF\IDF\obj\Debug\netcoreapp2.2\IDF.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\source\repos\IDF\IDF\obj\Debug\netcoreapp2.2\IDF.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\IDF\IDF\obj\Debug\netcoreapp2.2\IDF.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\IDF\IDF\obj\Debug\netcoreapp2.2\IDF.dll
+C:\Users\moksleivis\source\repos\IDF\IDF\obj\Debug\netcoreapp2.2\IDF.pdb
